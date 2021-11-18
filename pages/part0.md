@@ -12,6 +12,8 @@ This course is an introductory course to Docker and docker-compose. The course w
 
 And here I just want to see my stuff ... try the second time.
 
+And now the pipeline should actually work ...
+
 ### Prerequisites ###
 
 Attendees need to have computers with admin/superuser privileges. Attendees are also expected to have a general understanding of software development and experience with a CLI of their choice.
